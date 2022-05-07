@@ -1,9 +1,3 @@
-# Echipe & parola
-Echipa noastra: power rangers<br />
-Echipa adversa: c0d3 8234k325<br />
-
-**Parola adversari: zjxZjR3axM**
-
 # Utilizare script-uri
 **encrypt : python encrypt.py parola input.txt output<br />**
 **decrypt : python decrypt.py parola output input_recuperat.txt<br />**
